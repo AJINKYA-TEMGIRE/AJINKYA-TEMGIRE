@@ -15,7 +15,7 @@ My background includes hands-on experience with **Machine Learning, Deep Learnin
 * **AI/ML:** Machine Learning, Deep Learning, NLP
 * **Backend & APIs:** FastAPI, Flask
 * **Data:** Pandas, NumPy, Data Analysis
-* **Tools:** Git, GitHub, Docker (basic), MLflow (basics)
+* **Tools:** Git, GitHub, Docker, MLflow
 
 ---
 
