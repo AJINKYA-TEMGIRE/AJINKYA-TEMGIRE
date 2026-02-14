@@ -21,6 +21,13 @@ My background includes hands-on experience with **Machine Learning, Deep Learnin
 
 ## 🚀 Featured Projects
 
+### 🔹 Agentic AI Data Science Orchestration System
+
+* Designed and implemented a **multi-agent AI framework** to automate end-to-end data science workflows including data loading, exploration, visualization, coding, and model development.
+* Built specialized agents for CSV ingestion, file management, pandas analysis, visualization, ML coding, and shell execution coordinated through a central team manager.
+* Integrated tool-based execution using Python, Pandas, Matplotlib, and filesystem operations with controlled permissions and safety constraints.
+* Implemented context memory, session state handling, and task delegation to enable collaborative agent reasoning.
+
 ### 🔹 Agentic Chatbot using LangGraph
 
 * Designed a **stateful agentic workflow** using LangGraph
