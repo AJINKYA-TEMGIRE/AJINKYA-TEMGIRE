@@ -34,11 +34,13 @@ My background includes hands-on experience with **Machine Learning, Deep Learnin
 * Implemented tool usage, controlled execution, and conversational persistence
 * Focused on reliability, debugging, and observability
 
-### 🔹 Post-Discharge Medical AI Assistant (RAG)
+### 🔹 Corrective RAG System (CRAG)
 
-* Built a **RAG-based medical assistant** for post-discharge guidance
-* Emphasized **safe, grounded responses** with document-based retrieval
-* Included human-in-the-loop design principles
+* Developed an **agentic Retrieval-Augmented Generation pipeline** using LangGraph that validates and corrects retrieval failures before answer generation
+* Implemented semantic search using FAISS embeddings and automated relevance scoring of retrieved chunks via LLM evaluation
+* Designed conditional routing to trigger query rewriting and web retrieval when local knowledge was insufficient
+* Built sentence-level context refinement to ensure grounded, high-precision responses
+* Integrated Groq-hosted LLM inference for efficient execution
 
 ---
 
