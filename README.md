@@ -11,8 +11,9 @@ My background includes hands-on experience with **Machine Learning, Deep Learnin
 ## ⚙️ Technical Skills
 
 * **Programming:** Python
-* **Generative AI:** LangChain, LangGraph, RAG (Retrieval-Augmented Generation), Agno AI
-* **AI/ML:** Machine Learning, Deep Learning, NLP
+* **Generative AI:** LangChain, LangGraph, Agno AI, GROQ, HuggingFace
+* **RAG (Retrieval-Augmented Generation):** Corrective RAG, Self-Reflective RAG
+* **AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision
 * **Backend & APIs:** FastAPI, Flask
 * **Data:** Pandas, NumPy, Data Analysis
 * **Tools:** Git, GitHub, Docker, MLflow
