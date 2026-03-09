@@ -2,9 +2,16 @@
 
 ## 🧠 About Me
 
-I am an **AI & Data Science Engineer** with a strong focus on **Generative AI and Agentic Systems**. I enjoy building reliable, production-ready AI applications that solve real-world problems.
+* Generative AI Engineer with hands-on experience building autonomous LLM-driven systems, advanced RAG architectures, and multi-agent orchestration frameworks.
 
-My background includes hands-on experience with **Machine Learning, Deep Learning, NLP**, and modern **LLM-based architectures**. Alongside engineering, teaching complex AI concepts has helped me build strong fundamentals and clarity in system design.
+* Proven ability to design and implement context-aware AI pipelines using LangChain, LangGraph, and vector 
+databases for real-world problem solving.
+
+* Strong expertise in Machine Learning, Deep Learning, NLP, embeddings, retrieval validation, and MLOps practices for scalable and production-ready AI systems.
+
+* Recognized for architecting corrective RAG workflows, memory-enabled agents, and structured reasoning pipelines that enhance response accuracy and reliability.
+
+* Passionate about building intelligent agentic systems capable of automation, decision-making, and collaborative multi-agent reasoning.
 
 ---
 
